@@ -1,0 +1,17 @@
+body {
+    border: grey solid 5px;
+    width: 600px;
+    margin: 150px auto;
+    padding-right: 150px;
+    padding-left: 150px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.span {
+    border: green solid 2px;
+}
+.check {
+    height: 100px;
+    width: 100px;
+}
